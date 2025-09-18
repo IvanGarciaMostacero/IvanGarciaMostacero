@@ -2,7 +2,7 @@
 
 💻 **Desarrollador Web en formación**  
 🚀 Apasionado por la tecnología, el diseño y la creación de proyectos útiles  
-📍 España  
+📍 Madrid,España  
 
 ---
 
