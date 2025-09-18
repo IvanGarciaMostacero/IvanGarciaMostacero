@@ -23,22 +23,6 @@
 - 🌐 [Landing de ejemplo](https://IvanGarciaMostacero.github.io/landing-ejemplo/) – página sencilla publicada con **GitHub Pages**  
 - *(Pronto más proyectos...)*  
 
----
-
-## 📊 Mis estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanGarciaMostacero&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGarciaMostacero&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanGarciaMostacero&theme=tokyonight" alt="streak" />
-</p>
-
----
 
 ## 📫 Cómo contactarme
 - ✉️ Email: *tuemail@ejemplo.com*  
@@ -49,12 +33,3 @@
 ✨ *Siempre aprendiendo y mejorando cada día.*
 
 ---
-
-## 📫 Cómo contactarme
-- ✉️ Email: *tuemail@ejemplo.com*  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(tu perfil aquí)*  
-
----
-
-✨ *Siempre aprendiendo y mejorando cada día.*
-
