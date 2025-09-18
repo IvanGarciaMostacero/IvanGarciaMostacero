@@ -25,7 +25,7 @@
 
 
 ## 📫 Cómo contactarme
-- ✉️ Email: *tuemail@ejemplo.com*  
+- ✉️ Email: ivangarcia1719@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/) *(pon tu enlace aquí)*  
 
 ---
