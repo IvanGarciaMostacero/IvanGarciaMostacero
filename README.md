@@ -30,4 +30,4 @@ Soy un desarrollador especializado en la creación de soluciones web a medida y 
 
 ### 📫 Cómo contactarme
 - ✉️ Email: ivangarcia1719@gmail.com
-- 💼 LinkedIn: [Visita mi perfil profesional](www.linkedin.com/in/iván-garcía-mostacero-b4645134b)
+- 💼 LinkedIn: [Visita mi perfil profesional](https://www.linkedin.com/in/iván-garcía-mostacero-b4645134b)
